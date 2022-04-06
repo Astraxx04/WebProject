@@ -10,9 +10,25 @@ body {
 }
 
 .background_image {
-    background-image: url('../images/background.jpg');
+    background-image: url('../images/background_home.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
+    background-repeat: repeat;
+    height: 10;
 }
+
+#navbarNavDropdown {
+    font-size: 30px;
+}
+
+.nav-item {
+    margin: 12px;
+}
+
+
+
+.img-tiles {
+    color: red;
+}
+
+
 
