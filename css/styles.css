@@ -32,12 +32,31 @@ body {
     margin: 10px;  
 }
 
-.carousel-inner {
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo {
+        width: 10vh;
+        height: 10vh;
+    }
 }
 
-.carousel-item {
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+    .logo {
+        width: 10vh;
+        height: 10vh;
+    }
 }
 
+
+/********** Super extra small devices Only **********/
+@media (max-width: 479px) {
+    .logo {
+        width: 10vh;
+        height: 10vh;
+    }
+}
 
 
 
