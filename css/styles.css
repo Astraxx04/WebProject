@@ -27,10 +27,21 @@ body {
 .news a{
     color: bisque;
     text-decoration: none;
-    font-family: 'Dancing Script', cursive;
-    font-size: 30px;
-    an
+    font-family: 'Grape Nuts', cursive, 'Dancing Script', cursive;
+    font-size: 40px;
+    margin: 10px;  
 }
+
+.carousel-inner {
+}
+
+.carousel-item {
+}
+
+
+
+
+
 
 
 
