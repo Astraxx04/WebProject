@@ -64,6 +64,10 @@ body {
     margin-top: 40px;
 }
 
+.club-tile {
+    float: left;
+    width: 33.33%;
+}
 
 
 
@@ -86,7 +90,7 @@ body {
         height: 10vh;
     }
     .about-content {
-        font-size: 30%;
+        font-size: 100%;
     }
 }
 
@@ -98,7 +102,7 @@ body {
         height: 10vh;
     }
     .about-content {
-        font-size: 30%;
+        font-size: 90%;
     }
 }
 
@@ -108,6 +112,11 @@ body {
     .logo {
         width: 10vh;
         height: 10vh;
+    }
+    .about {
+        background-color: #d4f0f0;
+        margin-left: 40px;
+        margin-right: 40px;
     }
     .about-content {
         font-size: 30%;
